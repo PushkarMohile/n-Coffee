@@ -1,1 +1,6 @@
 theme: jekyll-theme-slate
+defaults:
+  -
+    values:
+      title: "default"
+      
