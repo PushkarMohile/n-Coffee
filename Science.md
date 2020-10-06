@@ -11,8 +11,8 @@ Virasoro and the Current algebra which finds use in 2-D CFTs. These structures t
 ## Bimonoids for hyperplane arrangements 
 A species is a functor category from certain algebraic structures on hyperplane arrangements(The Tits and Birkhoff monoids) to vector spaces. It is possible to define bi-algebra like structures called bimonoids 
 on this category whose structure theory mirrors that of lie algebras and lie groups, from the relations like the exponential - log correspondence and the Poincare-Birkhoff-Witt Theorem. 
-The study of these structures also provides a lot of insight into certain combinatorial structures like shuffles and permutations which are related to the Braid group, and have recently been used to study [pQFTs](https://arxiv.org/pdf/2009.09969.pdf)
-Further as the Tits and Birkhoff monoids have a nice representation these structures are very interesting. 
+The study of these structures also provides a lot of insight into certain combinatorial structures like shuffles and permutations which are related to the Braid group, and have recently been used to study [pQFTs](https://arxiv.org/pdf/2009.09969.pdf).
+Further as the Tits and Birkhoff monoids have a nice representation theory these structures are very interesting and intuitive to study. 
 
 ## Ecological Modelling 
 Population models have been studied for a long time now. There has been some interest in recent times in modelling population dynamics through stochastic models instead of deterministic 
