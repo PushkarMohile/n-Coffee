@@ -4,7 +4,7 @@ structures and dynamical systems involved.
 
 ## Integrable Systems, Solitons and Quantization  
 Solitons find use in modelling non perturbative structures in field theories, such as the Goldstone Boson as a consequence of spontaneous symmetry breaking. Solitons are also
-linked to integrable systems such as the K-dV equation and Toda Lattices. I am cuurently exploring the link between the algebraic structures of the Lax formalism which takes the 
+linked to integrable systems such as the K-dV equation and Toda Lattices. I am currently exploring the link between the algebraic structures of the Lax formalism which takes the 
 form of a Lie algebra and the Hamiltonian formalism which takes the form of a poisson manifold. The quantization of the KdV bihamiltonian gives us interesting structures like 
 Virasoro and the Current algebra which finds use in 2-D CFTs. These structures therefore seem to relate to several different fields and are very exciting. 
 
