@@ -19,3 +19,5 @@ Population models have been studied for a long time now. There has been some int
 ones. I have spent some time exploring the differences that these models have especially near extinction, where the behaivour differs the most. These stochastic models seem to be closer 
 to experimental results in cases like the cyclic dominance of E-Coli My simulations on MATLAB seem to indicate that persistent deterministic models are guarenteed to show extinction in stochastic models , albeit at very large timescales. 
 
+### [Return to home](index.md)
+
