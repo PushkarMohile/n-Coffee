@@ -1,6 +1,6 @@
 # Pushkar's Homepage    
 
-## [Research Interests](Science.md)    |  [Debating](debate.md)    |     [Curriculum Vitae](PushkarMohileCV.pdf)
+## [Research Interests](Science.md)    |  [Debating](debate.md)    |     [Curriculum Vitae](PushkarResume.pdf)
 
 I am a student of Engineering Physics at the Indian Institute of Bombay, currently in my third year of undergraduate studies. I am interested in studying the connection between mathematical concepts and their use in modeling phenomena in the real world. I am also a competitive debater at the intervarsity level, part of India's best performing team at several international tournaments.
 
