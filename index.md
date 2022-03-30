@@ -10,5 +10,5 @@ I am also a competitive debater at the intervarsity level, part of India's best 
 
 
 You can reach me at 
-- pushkarmohile@iitb.ac.in or
-- pushkarmohile@gmail.com
+- [pushkarmohile@iitb.ac.in](mailto:pushkarmohile@iitb.ac.in) or
+- [pushkarmohile@gmail.com](mailto:pushkarmohile@gmail.com)
