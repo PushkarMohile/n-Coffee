@@ -1,4 +1,3 @@
-# Pushkar's Homepage    
 
 ## [Research Interests](Science.md)    |  [Debating](debate.md)    |     [Curriculum Vitae](CVPushkarApr2022.pdf)
 
