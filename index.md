@@ -1,5 +1,5 @@
 
-## [Research Interests](Science.md)    |  [Debating](debate.md)    |     [Curriculum Vitae](PushkarMohileCV(1)(1).pdf)
+## [Research Interests](Science.md)    |  [Debating](debate.md)    |   
 
 I am a PhD Student at Stony Brook University in the Dept of Physics.  I am currently interested in Statistical Mechanics and Condensed Matter physics. Right now, I am working on Measurement Induced Phase Transitions.    
 
